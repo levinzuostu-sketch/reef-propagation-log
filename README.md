@@ -1,9 +1,5 @@
 # reef-propagation-log
 
-Open logbook of a self-built marine reef microcosm. Recording setup, water chemistry, candidate research topics, and results (including failures). Started July 2026.
-
-# reef-propagation-log
-
 *(working title — may rename once the research topic is locked in December 2026)*
 
 Open logbook of a self-built ~50cm marine reef microcosm, kept by a high school student in Jiangsu, China. Recording setup, water chemistry, candidate research topics, and results — including failures — as they happen.
