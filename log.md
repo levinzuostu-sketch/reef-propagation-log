@@ -1,1 +1,4 @@
+## [2026.8.31 - 2026.9.6] (Week 1)
+Didn't collect any data this week
 
+Week 1 of the tank: I bought and assembled all the necessary equipment (the 50cm sump-filtered tank, protein skimmer, wavemaker, return pump, salt, light, live rock filter media, roller filter, and some other small necessary parts). After that I added water and mixed in the salt, and used aquascaping putty and live rock to build a simple layout I liked. The putty's fast-drying, easily-cracking-early-on nature gave me a lot of trouble, and once it set (around 2 hours) and I added it to the tank, it released dust that made the water very cloudy (visible in the photos). It cleared up quickly, though. After that I added the sand bed. There were some small surprises on the live rock — a piece of sponge and something that looks like coral. I waited 2 days and then added the already-acclimated clownfish.
