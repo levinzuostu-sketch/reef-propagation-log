@@ -44,3 +44,6 @@ Test kits are range/color-band type — reading a band, not a precise number. Cu
 ## Not yet decided
 - Final research topic
 - Whether this repo gets renamed once the topic locks
+
+## Reminder
+- I am still trying to figure out how this thing works, so sth will change while I learning it, maybe the content I record, the structure, or even the time. So this file is not going to be perfect.
