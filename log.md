@@ -21,4 +21,14 @@ Weekly maintenance tasks:
 * Salinity: 1.025✅
 * NH₃: ~0.15✅
 
-Week 2 of the tank: This week I noticed that the brown algae on the glass and live rock has receded a little, with some traces of green algae starting to show. This may be a sign that the system is gradually maturing. The livestock has been stable. The only variable is that my filter roller ran out of fleece and the replacement hasn’t arrived yet, so I’m making do with filter floss for now. I also added a new blue tang, about 5 cm long. It gets spooked easily in the tank, so it loves hiding in every nook and cranny of the rocks, and at night it even lies on the sand bed. But it’s gradually becoming more active.
+Week 3 of the tank: This week I noticed that the brown algae on the glass and live rock has receded a little, with some traces of green algae starting to show. This may be a sign that the system is gradually maturing. The livestock has been stable. The only variable is that my filter roller ran out of fleece and the replacement hasn’t arrived yet, so I’m making do with filter floss for now. I also added a new blue tang, about 5 cm long. It gets spooked easily in the tank, so it loves hiding in every nook and cranny of the rocks, and at night it even lies on the sand bed. But it’s gradually becoming more active.
+
+## [2026.9.14 - 2026.9.20] (Week 4)
+
+Weekly maintenance tasks:
+* Water change 10% ✅
+* Salinity: 1.024✅
+* NH₃: ~0.15✅
+*Temperature: 27✅
+
+Week 4 of the tank: This week the brown algae in my tank went down even more, and more green algae is showing up. The system is still slowly settling in. Had a bit of a hiccup: the blue tang ate almost all the macroalgae I was keeping in the tank, which left the live rock looking all bare and ugly. I think I’ll just feed more to deal with it. Also, I found a molted crab shell at the bottom of the tank (as you can see in the photo). It was so small and fragile that by the time I got it out, only the main body was left—the rest had fallen apart. So identifying it might be a little tough, but it’s definitely a crab shell. It honestly got me really excited about the biodiversity in my tank!
