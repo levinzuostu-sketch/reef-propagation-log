@@ -29,6 +29,16 @@ Weekly maintenance tasks:
 * Water change 10% ✅
 * Salinity: 1.024✅
 * NH₃: ~0.15✅
-*Temperature: 27✅
+* Temperature: 27✅
 
 Week 4 of the tank: This week the brown algae in my tank went down even more, and more green algae is showing up. The system is still slowly settling in. Had a bit of a hiccup: the blue tang ate almost all the macroalgae I was keeping in the tank, which left the live rock looking all bare and ugly. I think I’ll just feed more to deal with it. Also, I found a molted crab shell at the bottom of the tank (as you can see in the photo). It was so small and fragile that by the time I got it out, only the main body was left—the rest had fallen apart. So identifying it might be a little tough, but it’s definitely a crab shell. It honestly got me really excited about the biodiversity in my tank!
+
+## [2026.9.21 - 2026.9.27] (Week 5)
+
+Weekly maintenance tasks:
+* Water change 10% ✅
+* Salinity: 1.025✅
+* NH₃: ~0.15✅
+* Temperature: 27✅
+
+Week 5 of the tank: The algae on the glass is still heavy this week. I need to deal with it by feeding less and doing water changes. Last week I found a shed crab shell in the tank, so I went to check the tank early in the morning with a flashlight. In a gap in the rock, I saw this little crab. It’s white with black spots. The feather algae and other macroalgae on the live rock have mostly been eaten. I used to think the blue tang was eating them, but now it looks like it was probably this little crab. Besides that, I also bought a small soft coral. It’s red and looks really nice.
