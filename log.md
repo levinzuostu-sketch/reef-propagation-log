@@ -42,3 +42,13 @@ Weekly maintenance tasks:
 * Temperature: 27✅
 
 Week 5 of the tank: The algae on the glass is still heavy this week. I need to deal with it by feeding less and doing water changes. Last week I found a shed crab shell in the tank, so I went to check the tank early in the morning with a flashlight. In a gap in the rock, I saw this little crab. It’s white with black spots. The feather algae and other macroalgae on the live rock have mostly been eaten. I used to think the blue tang was eating them, but now it looks like it was probably this little crab. Besides that, I also bought a small soft coral. It’s red and looks really nice.
+
+## [2026.9.28 - 2026.10.4] (Week 6)
+
+Weekly maintenance tasks:
+* Water change 10% ✅
+* Salinity: 1.026✅
+* NH₃: ~0.15✅
+* Temperature: 26✅
+
+Week 6 of the tank: This week I bought a cleaner shrimp, a blue devil, and a goby, but they haven't arrived yet. Other tank inhabitants are still the same as usual. But when I was checking the tank with a flashlight at midnight, I found a bristleworm in the live rock (didn't take a pic unfortunately). This harmful guy might munch on corals, so I'll try to remove it if I get the chance. Besides that, I also found a completely new creature in the live rock (as shown in week6 pic). I just haven't figured out what it is yet (looks kinda like a tube worm).
