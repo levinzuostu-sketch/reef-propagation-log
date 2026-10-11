@@ -52,3 +52,13 @@ Weekly maintenance tasks:
 * Temperature: 26✅
 
 Week 6 of the tank: This week I bought a cleaner shrimp, a blue devil, and a goby, but they haven't arrived yet. Other tank inhabitants are still the same as usual. But when I was checking the tank with a flashlight at midnight, I found a bristleworm in the live rock (didn't take a pic unfortunately). This harmful guy might munch on corals, so I'll try to remove it if I get the chance. Besides that, I also found a completely new creature in the live rock (as shown in week6 pic). I just haven't figured out what it is yet (looks kinda like a tube worm).
+
+## [2026.10.5 - 2026.10.11] (Week 7)
+
+Weekly maintenance tasks:
+* Water change 10% ✅
+* Salinity: 1.025✅
+* NH₃: ~0.15✅
+* Temperature: 26✅
+
+Week 7 of the tank: School had a make-up schedule this week, so my weekend got cut down to just one day. I didn't have much time to take care of my tank, but I still got the water change and water tests done. The fish I bought last week had an issue too and still hasn't shipped. I did get a few things done, though. I found some amphipods still hanging around at the bottom of my old abandoned tank. To save them, I sucked them out with a pipette and moved them into the new tank. My coral have also got a lot bigger.
