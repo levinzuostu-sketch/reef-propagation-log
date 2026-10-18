@@ -62,3 +62,16 @@ Weekly maintenance tasks:
 * Temperature: 26✅
 
 Week 7 of the tank: School had a make-up schedule this week, so my weekend got cut down to just one day. I didn't have much time to take care of my tank, but I still got the water change and water tests done. The fish I bought last week had an issue too and still hasn't shipped. I did get a few things done, though. I found some amphipods still hanging around at the bottom of my old abandoned tank. To save them, I sucked them out with a pipette and moved them into the new tank. My coral have also got a lot bigger.
+
+ ## [2026.10.12 - 2026.10.18] (Week 8)
+
+Weekly maintenance tasks:
+* Water change 10% ✅
+* Salinity: 1.025✅
+* NH₃: ~0 ✅
+* NO₃: ~2 ✅
+* PO₄: ~0 ✅
+* KH: ~6.1 ✅
+* Temperature: 26✅
+
+Week 8 of the tank: I picked up Salifert test kits for KH, NO₃, and PO₄ this week and tried them out. It’s pretty strange — Red Sea salt should have a KH around 8, but my tank is only at 6.1. I’m not sure why. During my usual night check, I noticed the little crab wasn’t at its old spot, which made me worry it might not be alive anymore. But the next day I found a complete molt nearby, which gave me some hope. Hopefully I’ll see it next week! I also noticed that in the old tank I abandoned but never cleaned up (it’s really dirty, just sand and some small creatures), there are lots of tiny jellyfish-like things floating around. All kinds of bugs and thread-like things I’d never seen before have also shown up. It’s pretty amazing. I want to keep this abandoned tank just to see what happens. The fish I bought earlier still hasn’t arrived. I’m pretty mad, but I guess I just have to wait.
