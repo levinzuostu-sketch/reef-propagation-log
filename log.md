@@ -8,7 +8,7 @@ Week 1 of the tank: I bought and assembled all the necessary equipment (the 50cm
 Weekly maintenance tasks:
 * Water change 10% ✅
 * Salinity: 1.024✅
-* NH₃: ~0.15✅
+* NH₃: ~0 ✅
 
 Week 2 of the tank: I placed two small clownfish from another old tank into a breeding box inside the new saltwater tank, because I was worried they might fight due to the size difference. Last week, I noticed a heavy bloom of brown algae (diatoms), so I reduced both lighting and feeding. By the second week, I could clearly see the brown algae receding in the tank.
 During observation, I noticed some bean‑sprout‑like plants growing on the live rock, as well as beautiful feather duster worms. At night, many amphipods (scuds) are active; they hide in rock crevices during the day and come out to forage around midnight.
@@ -19,7 +19,7 @@ The issue is that the brown algae haven't completely disappeared, and there are 
 Weekly maintenance tasks:
 * Water change 10% ✅
 * Salinity: 1.025✅
-* NH₃: ~0.15✅
+* NH₃: ~0 ✅
 
 Week 3 of the tank: This week I noticed that the brown algae on the glass and live rock has receded a little, with some traces of green algae starting to show. This may be a sign that the system is gradually maturing. The livestock has been stable. The only variable is that my filter roller ran out of fleece and the replacement hasn’t arrived yet, so I’m making do with filter floss for now. I also added a new blue tang, about 5 cm long. It gets spooked easily in the tank, so it loves hiding in every nook and cranny of the rocks, and at night it even lies on the sand bed. But it’s gradually becoming more active.
 
@@ -28,7 +28,7 @@ Week 3 of the tank: This week I noticed that the brown algae on the glass and li
 Weekly maintenance tasks:
 * Water change 10% ✅
 * Salinity: 1.024✅
-* NH₃: ~0.15✅
+* NH₃: ~0 ✅
 * Temperature: 27✅
 
 Week 4 of the tank: This week the brown algae in my tank went down even more, and more green algae is showing up. The system is still slowly settling in. Had a bit of a hiccup: the blue tang ate almost all the macroalgae I was keeping in the tank, which left the live rock looking all bare and ugly. I think I’ll just feed more to deal with it. Also, I found a molted crab shell at the bottom of the tank (as you can see in the photo). It was so small and fragile that by the time I got it out, only the main body was left—the rest had fallen apart. So identifying it might be a little tough, but it’s definitely a crab shell. It honestly got me really excited about the biodiversity in my tank!
@@ -38,7 +38,7 @@ Week 4 of the tank: This week the brown algae in my tank went down even more, an
 Weekly maintenance tasks:
 * Water change 10% ✅
 * Salinity: 1.025✅
-* NH₃: ~0.15✅
+* NH₃: ~0 ✅
 * Temperature: 27✅
 
 Week 5 of the tank: The algae on the glass is still heavy this week. I need to deal with it by feeding less and doing water changes. Last week I found a shed crab shell in the tank, so I went to check the tank early in the morning with a flashlight. In a gap in the rock, I saw this little crab. It’s white with black spots. The feather algae and other macroalgae on the live rock have mostly been eaten. I used to think the blue tang was eating them, but now it looks like it was probably this little crab. Besides that, I also bought a small soft coral. It’s red and looks really nice.
@@ -48,7 +48,7 @@ Week 5 of the tank: The algae on the glass is still heavy this week. I need to d
 Weekly maintenance tasks:
 * Water change 10% ✅
 * Salinity: 1.026✅
-* NH₃: ~0.15✅
+* NH₃: ~0 ✅
 * Temperature: 26✅
 
 Week 6 of the tank: This week I bought a cleaner shrimp, a blue devil, and a goby, but they haven't arrived yet. Other tank inhabitants are still the same as usual. But when I was checking the tank with a flashlight at midnight, I found a bristleworm in the live rock (didn't take a pic unfortunately). This harmful guy might munch on corals, so I'll try to remove it if I get the chance. Besides that, I also found a completely new creature in the live rock (as shown in week6 pic). I just haven't figured out what it is yet (looks kinda like a tube worm).
@@ -58,7 +58,7 @@ Week 6 of the tank: This week I bought a cleaner shrimp, a blue devil, and a gob
 Weekly maintenance tasks:
 * Water change 10% ✅
 * Salinity: 1.025✅
-* NH₃: ~0.15✅
+* NH₃: ~0 ✅
 * Temperature: 26✅
 
 Week 7 of the tank: School had a make-up schedule this week, so my weekend got cut down to just one day. I didn't have much time to take care of my tank, but I still got the water change and water tests done. The fish I bought last week had an issue too and still hasn't shipped. I did get a few things done, though. I found some amphipods still hanging around at the bottom of my old abandoned tank. To save them, I sucked them out with a pipette and moved them into the new tank. My coral have also got a lot bigger.
