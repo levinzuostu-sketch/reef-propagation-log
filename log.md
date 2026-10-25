@@ -75,3 +75,16 @@ Weekly maintenance tasks:
 * Temperature: 26✅
 
 Week 8 of the tank: I picked up Salifert test kits for KH, NO₃, and PO₄ this week and tried them out. It’s pretty strange — Red Sea salt should have a KH around 8, but my tank is only at 6.1. I’m not sure why. During my usual night check, I noticed the little crab wasn’t at its old spot, which made me worry it might not be alive anymore. But the next day I found a complete molt nearby, which gave me some hope. Hopefully I’ll see it next week! I also noticed that in the old tank I abandoned but never cleaned up (it’s really dirty, just sand and some small creatures), there are lots of tiny jellyfish-like things floating around. All kinds of bugs and thread-like things I’d never seen before have also shown up. It’s pretty amazing. I want to keep this abandoned tank just to see what happens. The fish I bought earlier still hasn’t arrived. I’m pretty mad, but I guess I just have to wait.
+
+ ## [2026.10.19 - 2026.10.25] (Week 9)
+
+Weekly maintenance tasks:
+* Water change 10% ✅
+* Salinity: 1.025✅
+* NH₃: ~0 ✅
+* NO₃: ~2 ✅
+* PO₄: ~0 ✅
+* KH: ~6.4 ✅
+* Temperature: 26✅
+
+Week 9 of the tank: The cleaner shrimp and the goby I bought earlier finally arrived this week. As soon as the cleaner shrimp went in, it hide in a rock with the blue tang. The goby dig a hole under the live rock and stayed inside. From the side, you can see that almost all the space under the rock is hollowed out. The red coral I bought before had been doing poorly, so I moved it to a spot with less flow and light. It’s starting to open up now. I also found a yellow thread-like worm on the tank glass, constantly wriggling. I have no idea what it is（it looks like it came from outer space）.
