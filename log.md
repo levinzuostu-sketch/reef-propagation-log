@@ -88,3 +88,18 @@ Weekly maintenance tasks:
 * Temperature: 26✅
 
 Week 9 of the tank: The cleaner shrimp and the goby I bought earlier finally arrived this week. As soon as the cleaner shrimp went in, it hide in a rock with the blue tang. The goby dig a hole under the live rock and stayed inside. From the side, you can see that almost all the space under the rock is hollowed out. The red coral I bought before had been doing poorly, so I moved it to a spot with less flow and light. It’s starting to open up now. I also found a yellow thread-like worm on the tank glass, constantly wriggling. I have no idea what it is（it looks like it came from outer space）.
+
+ ## [2026.10.26 - 2026.11.1] (Week 10)
+
+Weekly maintenance tasks:
+* Water change ❌
+* Salinity: ❌
+* NH₃: ❌
+* NO₃: ❌
+* PO₄: ❌
+* KH: ❌
+* Temperature: ❌
+
+Week 10 of the tank: Away for a school soccer team match over the weekend; unable to perform water changes, observations, measurements, or other tank maintenance.
+
+
