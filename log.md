@@ -102,4 +102,17 @@ Weekly maintenance tasks:
 
 Week 10 of the tank: Away for a school soccer team match over the weekend; unable to perform water changes, observations, measurements, or other tank maintenance.
 
+ ## [2026.11.2 - 2026.11.8] (Week 11)
+
+Weekly maintenance tasks:
+* Water change 10% ✅
+* Salinity: 1.025✅
+* NH₃: ~0 ✅
+* NO₃: ~2 ✅
+* PO₄: ~0.1 ✅
+* KH: ~6.1 ✅
+* Temperature: 26✅
+
+Week 11 of the tank: This was my first time going two weeks between water changes in the new tank. The fish looked the same as before, and the parameters after the water change didn’t seem much different. I was away from home for two weeks, and two big surprise happened. First, I forgot to plug the auto top-off, so the tank didn’t get topped off for several days. By the time my mom noticed, the live rock had been exposed for quite a while. Second, the goby I added earlier dug another new burrow. While digging, it kicked sand everywhere and completely buried two corals, including the zoas. When I dug the corals out, their tentacles had gotten super long(probably to get light under the sand),and they were in really bad shape.
+
 
