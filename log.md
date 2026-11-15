@@ -115,4 +115,18 @@ Weekly maintenance tasks:
 
 Week 11 of the tank: This was my first time going two weeks between water changes in the new tank. The fish looked the same as before, and the parameters after the water change didn’t seem much different. I was away from home for two weeks, and two big surprise happened. First, I forgot to plug the auto top-off, so the tank didn’t get topped off for several days. By the time my mom noticed, the live rock had been exposed for quite a while. Second, the goby I added earlier dug another new burrow. While digging, it kicked sand everywhere and completely buried two corals, including the zoas. When I dug the corals out, their tentacles had gotten super long(probably to get light under the sand),and they were in really bad shape.
 
+ ## [2026.11.9 - 2026.11.15] (Week 12)
+
+Weekly maintenance tasks:
+* Water change 10% ✅
+* Salinity: 1.025✅
+* NH₃: ~0 ✅
+* NO₃: ~2 ✅
+* PO₄: ~0 ✅
+* KH: ~6.4 ✅
+* Temperature: 26✅
+
+Week 12 of the tank: My mini ocean have a big loss this week. The black clownfish jumped out of the tank. I do have a jump guard, but it still jumped out through a gap in the isolation box. I’m really sad about it, but all I could do was bury it downstairs and seal the tank cover tightly so the other fish don’t get hurt. Other than that, the tank is doing pretty normal. My cleaner shrimp molted, and the corals are starting to recover.
+
+
 
