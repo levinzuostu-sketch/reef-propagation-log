@@ -128,5 +128,16 @@ Weekly maintenance tasks:
 
 Week 12 of the tank: My mini ocean have a big loss this week. The black clownfish jumped out of the tank. I do have a jump guard, but it still jumped out through a gap in the isolation box. I’m really sad about it, but all I could do was bury it downstairs and seal the tank cover tightly so the other fish don’t get hurt. Other than that, the tank is doing pretty normal. My cleaner shrimp molted, and the corals are starting to recover.
 
+ ## [2026.11.16 - 2026.11.22] (Week 13)
 
+Weekly maintenance tasks:
+* Water change 10% ✅
+* Salinity: 1.025✅
+* NH₃: ~0 ✅
+* NO₃: ~2 ✅
+* PO₄: ~0.1 ✅
+* KH: ~6.4 ✅
+* Temperature: 26✅
+
+Week 13 of the tank: This week, as soon as I got home, I took the clownfish that died last week downstairs and buried it. I buried almost all of my dead pets in that small garden. In the fish tank, I noticed that the bottom tank was very dirty with a lot of sediment and I have no idea where it came from. I tried to clean it but it would make the water very murky. The flathead shrimp that were eaten up by the goby fish in the tank also found remnants at the bottom of the tank and were living quite well.I also adjusted the wave-making, so now the sands won't all accumulate at the back
 
